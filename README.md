@@ -1,1 +1,1 @@
-# dev_stuty
+# dev_study
